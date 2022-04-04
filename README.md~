@@ -10,7 +10,7 @@ Prerequisites:
 
 Install:
 
-```sh
+```
 $ luarocks install lapis
 ```
 
@@ -18,19 +18,19 @@ $ luarocks install lapis
 
 Compile:
 
-```sh
+```
 $ moonc *.moon
 ```
 
 Start server:
 
-```sh
+```
 $ lapis server
 ```
 
 On another terminal:
 
-```sh
+```
 $ curl http:/localhost:8080/ping
 "pong"
 $ curl http:/localhost:8080/apps

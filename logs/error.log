@@ -1,0 +1,53 @@
+2022/04/03 18:24:08 [alert] 20966#20966: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:30:03 [alert] 22419#22419: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:30:14 [alert] 22436#22436: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:30:44 [alert] 22521#22521: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:33:27 [alert] 22994#22994: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:35:01 [alert] 23462#23462: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:35:45 [alert] 23559#23559: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:38:00 [alert] 23639#23639: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:38:51 [alert] 23728#23728: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:39:32 [alert] 23754#23754: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:39:40 [alert] 23780#23780: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:39:44 [alert] 23797#23797: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:41:00 [alert] 23868#23868: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:41:22 [alert] 23900#23900: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:51:03 [alert] 24642#24642: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:51:03 [emerg] 24642#24642: unknown "_url" variable
+2022/04/03 18:51:56 [alert] 24659#24659: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:51:56 [emerg] 24659#24659: unexpected "}" in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:24
+2022/04/03 18:52:44 [alert] 24796#24796: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:52:44 [emerg] 24796#24796: directive "set" is not terminated by ";" in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:19
+2022/04/03 18:52:51 [alert] 24812#24812: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 18:54:56 [alert] 25022#25022: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 19:34:07 [alert] 27732#27732: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 19:35:07 [alert] 27765#27765: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 19:35:07 [emerg] 27765#27765: unknown "_url" variable
+2022/04/03 19:35:08 [alert] 27781#27781: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/03 19:35:08 [emerg] 27781#27781: unknown "_url" variable
+2022/04/03 19:35:11 [alert] 27798#27798: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/todoist-api-lapis/nginx.conf.compiled:16
+2022/04/04 10:43:30 [alert] 15899#15899: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:43:30 [emerg] 15899#15899: unexpected end of file, expecting "}" in /home/lefcha/Work/doist-apps/nginx.conf.compiled:33
+2022/04/04 10:43:31 [alert] 15915#15915: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:43:31 [emerg] 15915#15915: unexpected end of file, expecting "}" in /home/lefcha/Work/doist-apps/nginx.conf.compiled:33
+2022/04/04 10:44:00 [alert] 15964#15964: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:46:33 [alert] 16416#16416: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:47:07 [alert] 16446#16446: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:47:16 [alert] 16467#16467: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:47:42 [alert] 16494#16494: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:47:53 [alert] 16517#16517: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:48:44 [alert] 16906#16906: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:50:33 [alert] 17187#17187: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 10:58:46 [alert] 18043#18043: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:02:38 [alert] 18208#18208: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:05:18 [alert] 18275#18275: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:06:37 [alert] 18374#18374: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:07:06 [alert] 18404#18404: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:11:58 [alert] 18507#18507: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:13:25 [alert] 18542#18542: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:17:40 [alert] 19160#19160: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:24:34 [alert] 19881#19881: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:24:39 [alert] 19901#19901: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:25:59 [alert] 20086#20086: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:26:06 [alert] 20111#20111: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps/nginx.conf.compiled:16
+2022/04/04 11:46:27 [alert] 23538#23538: lua_code_cache is off; this will hurt performance in /home/lefcha/Work/doist-apps-lapis/nginx.conf.compiled:16
